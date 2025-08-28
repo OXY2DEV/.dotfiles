@@ -1,6 +1,8 @@
 [submodule ".config/nvim"]
 	path = .config/nvim
 	url = ../nvim.git
+	branch = main
 [submodule ".config/fish"]
 	path = .config/fish
 	url = ../fish.git
+	branch = main
