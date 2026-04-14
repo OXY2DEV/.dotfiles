@@ -6,3 +6,7 @@
 	path = .config/fish
 	url = ../fish.git
 	branch = main
+[submodule ".config/transmission-daemon"]
+	path = .config/transmission-daemon
+	url = ../transmission-daemon.git
+	branch = main
